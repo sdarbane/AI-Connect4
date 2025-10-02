@@ -13,7 +13,7 @@ class Board(object):
 
     #static class variables - shared across all instances
     HEIGHT = 6
-    WIDTH = 7
+    WIDTH = 8
 
     def __init__(self, orig=None, hash=None):
 
