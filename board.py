@@ -17,6 +17,8 @@ class Board(object):
     # Constantes pour la hauteur et la largeur du plateau
     HEIGHT = 6
     WIDTH = 8
+    #TEST TP Elodie
+    test = 0 
 
 
     def __init__(self, orig=None, hash=None):
